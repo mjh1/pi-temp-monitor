@@ -19,6 +19,7 @@
     "rpi-gpio": "^0.7.0",
     "async": "^1.5.2",
     "node-dht-sensor": "^0.0.12",
+    "nodemailer": "^2.3",
     "lodash": "^4.11.1"
   },
   "subdomain": "",
